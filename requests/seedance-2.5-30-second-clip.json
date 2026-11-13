@@ -1,0 +1,14 @@
+{
+  "model": "seedance-2.5",
+  "input": {
+    "prompt": "A 30 second vertical ad. Shot 1: the runner from the first image laces the shoe from the second image at dawn. Shot 2: tracking shot as she runs along the seafront. Shot 3: close-up of the shoe hitting wet sand. Shot 4: she stops, breathing hard, and looks out to sea. Steady electronic beat, waves, footsteps.",
+    "image_urls": [
+      "https://example.com/runner.jpg",
+      "https://example.com/shoe.jpg"
+    ],
+    "resolution": "1080p",
+    "duration": 30,
+    "aspect_ratio": "9:16",
+    "audio": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.0-fast",
+  "input": {
+    "prompt": "A paper boat drifts down a rain-filled street gutter, low camera following it, raindrops on the water, distant thunder.",
+    "resolution": "480p",
+    "duration": 4,
+    "aspect_ratio": "16:9",
+    "audio": true
+  }
+}

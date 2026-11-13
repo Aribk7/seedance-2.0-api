@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.0",
+  "input": {
+    "prompt": "A ceramic coffee mug on a sunlit kitchen counter. Shot 1: slow push-in as steam rises. Shot 2: close-up of a hand lifting the mug. Morning birdsong, a soft clink as the mug leaves the counter.",
+    "resolution": "720p",
+    "duration": 5,
+    "aspect_ratio": "16:9",
+    "audio": true
+  }
+}

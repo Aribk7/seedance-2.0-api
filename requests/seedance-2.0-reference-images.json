@@ -1,0 +1,15 @@
+{
+  "model": "seedance-2.0",
+  "input": {
+    "prompt": "The woman from the first image walks through the market from the second image, carrying the bag from the third image. Handheld camera, golden hour, market chatter.",
+    "image_urls": [
+      "https://example.com/woman.jpg",
+      "https://example.com/market.jpg",
+      "https://example.com/bag.jpg"
+    ],
+    "resolution": "720p",
+    "duration": 8,
+    "aspect_ratio": "9:16",
+    "audio": true
+  }
+}

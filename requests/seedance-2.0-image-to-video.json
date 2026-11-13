@@ -1,0 +1,11 @@
+{
+  "model": "seedance-2.0",
+  "input": {
+    "prompt": "She turns toward the camera and smiles as a light breeze moves her hair. Distant city traffic, a bus passing.",
+    "image_url": "https://example.com/first-frame.jpg",
+    "resolution": "1080p",
+    "duration": 5,
+    "aspect_ratio": "adaptive",
+    "audio": true
+  }
+}
